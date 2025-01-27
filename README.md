@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ralph Christian Gabriel (@ralphgabriel04)
 
-Welcome to my GitHub profile! I'm an enthusiastic **Software Engineering student** at ÉTS with a passion for programming, chess, and basketball. Currently, I’m honing my skills and contributing to innovative projects while working at **Videotron**.
+Welcome to my GitHub profile! I'm an enthusiastic **Software Engineering student** at ÉTS with a passion for programming, chess, and basketball. As an **INTJ-A (Architect)**, I thrive on strategic thinking and creativity, both in my projects and in my approach to life. Currently, I’m honing my skills and contributing to innovative projects while working at **Videotron**.
 
 ## 👀 About Me
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an enthusiastic **Software Engineering student
   - Programming and software development.
   - Web development and artificial intelligence (AI).
   - Strategic thinking through chess.
-  - Teamwork and perseverance from basketball.
+  - Teamwork and perseverance from sport.
 - 🤝 **Open to Collaborations**: Always eager to collaborate on projects in:
   - Software development.
   - Artificial intelligence and machine learning.
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm an enthusiastic **Software Engineering student
 
 - 📧 Email: [ralph_christian.gabriel@hotmail.com](mailto:ralph_christian.gabriel@hotmail.com)
 - 💼 LinkedIn: [Ralph Christian Gabriel](https://www.linkedin.com/in/ralph-christian-gabriel-45092021b)
+- 📸 Instagram: [@ralph_christian_gabriel](https://www.instagram.com/ralph_christian_gabriel)
 
 ---
 
