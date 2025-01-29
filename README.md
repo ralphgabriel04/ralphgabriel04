@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an enthusiastic **Software Engineering student
 - Enhancing my skills in **AI**, **machine learning**, and **web development**.
 - Developing personal projects that blend innovation and functionality.
 
-## Mes statistiques GitHub
+## GitHub Statistic
 ![Statistiques GitHub de username](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=vue)
 
 ## 📫 Let's Connect!
