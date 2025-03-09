@@ -33,3 +33,5 @@ Welcome to my GitHub profile! I'm an enthusiastic **Software Engineering student
 ---
 
 Explore my repositories and feel free to reach out. Let’s create and innovate together! 🚀
+
+<a href="https://app.daily.dev/ralphchristiangabriel"><img src="https://api.daily.dev/devcards/v2/hjmYHcReYGWOo5ap2Rk9H.png?r=gol" width="356" alt="Ralph Christian Gabriel's Dev Card"/></a>
