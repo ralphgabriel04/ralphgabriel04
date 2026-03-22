@@ -28,4 +28,4 @@ Open to internships and opportunities in backend, full-stack, or solutions integ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphgabriel04&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ralphgabriel04&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ralphgabriel04&theme=flat&no-frame=true&margin-w=4)
