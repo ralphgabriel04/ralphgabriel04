@@ -47,9 +47,7 @@ Open to internships and opportunities in backend, full-stack, or solutions integ
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ralphgabriel04&theme=tokyonight" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ralphgabriel04&theme=tokyonight&utcOffset=-4" alt="Productive Time" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
