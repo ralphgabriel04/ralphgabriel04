@@ -36,15 +36,11 @@ Open to internships and opportunities in backend, full-stack, or solutions integ
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ralphgabriel04&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ralphgabriel04&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ralphgabriel04&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ralphgabriel04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphgabriel04&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphgabriel04&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
