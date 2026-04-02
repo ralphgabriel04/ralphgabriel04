@@ -37,12 +37,17 @@ Open to internships and opportunities in backend, full-stack, or solutions integ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ralphgabriel04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphgabriel04&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ralphgabriel04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphgabriel04&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ralphgabriel04&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ralphgabriel04&theme=tokyonight" alt="Top Languages by Repo" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ralphgabriel04&theme=tokyonight" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ralphgabriel04&theme=tokyonight&utcOffset=-4" alt="Productive Time" />
 </p>
 
 ---
