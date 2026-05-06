@@ -10,6 +10,13 @@ Open to internships and opportunities in backend, full-stack, or solutions integ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralph-christian-gabriel-45092021b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ralph_christian.gabriel@hotmail.com)
 
+## 🌐 Portfolio
+
+<a href="https://ralph-gabriel-portfolio.vercel.app/en">
+  <img src="./assets/portfolio-preview.png" alt="Ralph Gabriel Portfolio" width="100%" />
+</a>
+
+🔗 [ralph-gabriel-portfolio.vercel.app](https://ralph-gabriel-portfolio.vercel.app/en)
 ---
 
 ## 💻 Tech Stack
