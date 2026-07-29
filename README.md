@@ -12,9 +12,9 @@ Open to internships and opportunities in backend, full-stack, or solutions integ
 
 ## 🌐 Portfolio
 
-[![Ralph Gabriel Portfolio](https://api.microlink.io/?url=https://ralph-gabriel-portfolio.vercel.app/en&screenshot=true&meta=false&embed=screenshot.url)](https://ralph-gabriel-portfolio.vercel.app/en)
+[![Ralph Gabriel Portfolio](https://api.microlink.io/?url=https://ralph-gabriel-portfolio.vercel.app/en&screenshot=true&meta=false&embed=screenshot.url)](https://rcgabriel.dev/))
 
-🔗 **Live site** → [ralph-gabriel-portfolio.vercel.app](https://ralph-gabriel-portfolio.vercel.app/en)
+🔗 **Live site** → [Ralph Christian Gabriel]((https://rcgabriel.dev/))
 
 Built with **Next.js 14**, **TypeScript**, **TailwindCSS**, and deployed on **Vercel**. Bilingual (FR/EN), fully responsive, optimized for performance.
 
